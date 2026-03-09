@@ -10,7 +10,7 @@ LisaHost（中文名：丽萨主机）成立于 2017 年，总部位于中国香
 
 - 官方网站：[lisahost.com](https://lisahost.com/aff.php?aff=8779)
 
-![image](https://github.com/surgenktensa/LisaHost/assets/157681879/9b96daec-8ed6-4f8f-93ff-7ad6d015050b)
+![image](1.png)
 
 ## LisaHost 最新优惠码
 
@@ -121,7 +121,7 @@ LisaHost 的 VPS 产品整体定位偏向“线路与访问体验优先”，比
 
 从测试结果来看，即便在晚高峰时段，该测试机型依然能够较稳定地跑满 15Mbps 带宽，说明其在基础网络稳定性与传输效率方面表现尚可。对于轻量站点、代理中转或日常业务用途而言，这样的表现具备一定参考价值。
 
-![image](https://github.com/surgenktensa/LisaHost/assets/157681879/cbf2d4bf-2ed5-4bf2-9366-f8de6259dd87)
+![image](2.png)
 
 ## 总结
 
